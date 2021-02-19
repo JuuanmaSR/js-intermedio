@@ -1,4 +1,4 @@
-/// <reference types="Cypress" />
+// <reference types="Cypress" />
 
 describe('Test de Tarea 11', () => {
   before(() => {
